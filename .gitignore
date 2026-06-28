@@ -1,0 +1,11 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build (static doc generators)
+node_modules/
+.cache/
+dist/
+*.tmp
